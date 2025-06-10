@@ -1,0 +1,6 @@
+{
+  "name": "Copy of Oni project",
+  "description": "A web application to schedule medical appointments using the Onisaúde API. Users can select service types, specialties, professionals, dates, and times to book an appointment.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
